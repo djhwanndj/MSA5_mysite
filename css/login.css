@@ -47,14 +47,14 @@ a {
 
 /* 로고 */
 #login .login-logo {
-    height: 150px;
-    margin-top: 50px;
+    height: 200px;
+    margin-top: 20px;
     margin-bottom: 50px;
 }
 
 #login .login-logo img {
     width: 100%;
-    height: 100px;      /* 사이즈 조절 */
+    height: 200px;      /* 사이즈 조절 */
     object-fit: contain;
 }
 
